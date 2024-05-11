@@ -1,0 +1,12 @@
+---
+If:
+  PathMatch: foo/.*
+CompileFlags:
+  CompilationDatabase:
+    /home/jk/dev/clangd/build/foo
+---
+If:
+  PathMatch: bar/.*
+CompileFlags:
+  CompilationDatabase:
+    /home/jk/dev/clangd/build/bar
