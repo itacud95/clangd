@@ -1,1 +1,1 @@
-# clangd
+# clangd config for multiple targets
